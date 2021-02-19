@@ -5,8 +5,8 @@ BIN_NAME	:= $(notdir $(WORK_DIR))
 
 TARGET		:= $(BIN_DIR)/$(BIN_NAME)
 
-CC		:= gcc
-CFLAGS	:= -std=c99 -O3 -Wall -Wextra -Wno-unused-parameter
+CC			:= gcc
+CFLAGS		:= -std=c99 -O3 -Wall -Wextra -Wno-unused-parameter
 
 .PHONY: all
 
