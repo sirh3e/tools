@@ -7,7 +7,7 @@
 #define VERSION "0.1.0"
 #define LICENSE                                                                \
 	"BSD-3-Clause License "                                                \
-	"<https://raw.githubusercontent.com/sirh3e/tools/master/LICENSE.txt>"
+	"<https://raw.githubusercontent.com/sirh3e/tools/master/LICENSE>"
 
 int main(int argc, char **argv)
 {
